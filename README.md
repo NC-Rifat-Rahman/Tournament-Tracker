@@ -1,6 +1,5 @@
 # Tournament Tracker
-Tournament Tracker is a desktop application created in .NET with a view in WinForms and two way data storage. The appliaction handles storage in text files (CSV files) or an SQL database (using Dapper). TT was created for learning purposes and for fun.
-Applications meet all conditions that I put up at the beginning:
+Tournament tracker is a desktop application to create and organize tournaments. 
 <ul>
   <li>Two way storage for data</li>
   <li>Creating new tournaments, teams, players and pool prizes</li>
